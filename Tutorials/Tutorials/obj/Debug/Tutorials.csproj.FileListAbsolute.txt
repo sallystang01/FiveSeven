@@ -1,0 +1,14 @@
+C:\Data\FiveSeven\Tutorials\Tutorials\bin\Debug\Tutorials.exe.config
+C:\Data\FiveSeven\Tutorials\Tutorials\bin\Debug\Tutorials.exe
+C:\Data\FiveSeven\Tutorials\Tutorials\bin\Debug\Tutorials.pdb
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.csprojResolveAssemblyReference.cache
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.Form1.resources
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.Properties.Resources.resources
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.csproj.GenerateResource.Cache
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.csproj.CoreCompileInputs.cache
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.exe
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.pdb
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.TelephoneFormat.resources
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.Navigation.resources
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.TelephoneUnformat.resources
+C:\Data\FiveSeven\Tutorials\Tutorials\obj\Debug\Tutorials.TestAverages.resources
