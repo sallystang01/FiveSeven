@@ -1,3 +1,4 @@
+USE MIGRATION
 GO
 Create FUNCTION [dbo].[standard_date_converter] (@inputDate AS VARCHAR(255)) RETURNS date
  AS
