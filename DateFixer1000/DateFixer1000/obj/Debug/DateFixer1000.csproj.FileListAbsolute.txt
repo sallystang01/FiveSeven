@@ -8,3 +8,13 @@ C:\Data\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.csproj.Gen
 C:\Data\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.csproj.CoreCompileInputs.cache
 C:\Data\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.exe
 C:\Data\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.pdb
+C:\Data\New folder\FiveSeven\DateFixer1000\DateFixer1000\bin\Debug\DateFixer1000.exe.config
+C:\Data\New folder\FiveSeven\DateFixer1000\DateFixer1000\bin\Debug\DateFixer1000.exe
+C:\Data\New folder\FiveSeven\DateFixer1000\DateFixer1000\bin\Debug\DateFixer1000.pdb
+C:\Data\New folder\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.csprojResolveAssemblyReference.cache
+C:\Data\New folder\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.DateFixer1000.resources
+C:\Data\New folder\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.Properties.Resources.resources
+C:\Data\New folder\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.csproj.GenerateResource.Cache
+C:\Data\New folder\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.csproj.CoreCompileInputs.cache
+C:\Data\New folder\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.exe
+C:\Data\New folder\FiveSeven\DateFixer1000\DateFixer1000\obj\Debug\DateFixer1000.pdb
